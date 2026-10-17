@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.3",
+  "versionCode": 6,
+  "versionName": "0.2.4",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.2.3-arm64-release.apk",
-  "sha256": "371f7b458a7fe10a7624bd6903a63cee55aa56858cba8d2b3834643468f957a1",
-  "size": 16627443,
-  "notes": "0.2.3：「允許受限制的設定」改為前往「應用程式管理」→ 找到「懸浮填表」→ 右上角 ⋮（由 App 直接開的資訊頁常常沒有 ⋮）；自動偵測受限制設定狀態，已允許就跳過；權限順序調整為 通知 → 懸浮窗 → 無障礙（先被擋一次 → 允許受限制的設定 → 打開）→ 耗電管理 → 安裝不明應用程式（選用）；首頁、引導、權限檢測重新排版，修正跑位。"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.2.4-arm64-release.apk",
+  "sha256": "8b4da4f471f8c3e69b7356aedf58c13f3b823de16717fcbdf7b7902e15619b96",
+  "size": 16644051,
+  "notes": "0.2.4：擷取欄位後按「✏ 輸入／貼上內容」開啟獨立輸入畫面（懸浮窗先收起），鍵盤、長按貼上與「📋 貼上」按鈕都能用；儲存後自動回到目標 App，再按「▶ 開始填入」（會等目標 App 回到前景才填）。截圖後的範本編輯頁開著時懸浮窗也會收起。無障礙第 2 步改為「前往 設定 → 應用程式」→ 應用程式管理 → 懸浮填表 → 右上角 ⋮ → 允許受限制的設定。"
 }
