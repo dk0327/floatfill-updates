@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "0.3.4",
+  "versionCode": 13,
+  "versionName": "0.3.5",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.3.4-arm64-release.apk",
-  "sha256": "27aa0385cf1d1086fe4bd0ed8082edc428cf84da22868304657136b102e2a2d4",
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.3.5-arm64-release.apk",
+  "sha256": "e42609d227cfdd18f620469561cd04c5c30acfa28299dc2328408f4a7eeaa4c7",
   "size": 16725999,
-  "notes": "0.3.4：⚙ 設定 →「👁 開始識別」新增開關「找不到按鈕時停止並響警示音＋震動」（預設開）。關掉時，畫面上沒有清單按鈕不會停、不會響，顯示「本輪沒找到按鈕，等下一輪」後繼續下一輪。密碼／驗證碼、禁止截圖等安全停止不受影響；「完成提示音」另外控制。開始識別的設定已改成：只用節點、999 輪、每輪間隔 5 秒、每一步最多等 2 秒、按确定後等消失 1 秒（升級時自動套用一次，按鈕清單不變）。"
+  "notes": "0.3.5：👁 開始識別加速。⚙ 設定 →「👁 開始識別」新增「⚡ 加速設定」四個開關（預設全開）：看到就點（畫面一變就立刻找）、畫面上有哪個就點哪個（同時出現依清單順序）、按确定後不等消失（畫面一變就繼續）、只掃目標 App 的視窗（首次使用權限流程仍會掃權限視窗）。新增「兩次點擊最短間隔」（預設 0.3 秒），同一個按鈕在畫面沒變前不會連按。每輪間隔改為 1 秒（升級時自動套用一次）。狀態列顯示每輪花了幾秒。安全規則與「找不到按鈕時停止」開關不變。"
 }
