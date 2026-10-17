@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.5",
+  "versionCode": 10,
+  "versionName": "0.3.2",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.2.5-arm64-release.apk",
-  "sha256": "fca84f62cdef8a2d6cdb31bd58976af6b92b261dbd9845c32c4e518c334f9ef4",
-  "size": 16627667,
-  "notes": "0.2.5：無障礙第 1 步直接打開「懸浮填表－自動填入」點一下開關；第 2 步直接打開「懸浮填表」應用程式資訊 → 右上角 ⋮ → 允許受限制的設定（沒有 ⋮ 可改到 設定 → 應用程式）；第 3 步直接打開「自動填入」把開關打開。移除耗電管理步驟，安裝不明應用程式改為第 ⑥ 步（選用）。"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.3.2-arm64-release.apk",
+  "sha256": "9ad7d31485864abfd659d50e70d28b69e77e100e1f79620508a311b326dd69de",
+  "size": 16693231,
+  "notes": "0.3.2：👁 開始識別加入「确定」步驟：开始识别 → 已阅读并同意 → 确定，按了「确定」會等它消失，再回到开始识别或已阅读并同意繼續下一輪；每輪開始時兩個都不在畫面上就停止並發出提示音。首次使用權限流程也加上「确定」步驟。🔍 擷取欄位可同時選「下一步」按鈕（取代原本的擷取欄位＋下一步），▶ 填入＋下一步可設定次數、間隔、倒數循環。開始識別的按鈕清單可在 ⚙ 設定自訂（簡繁體都認得）；送出／付款／刪除／登入類按鈕永遠不按。"
 }
