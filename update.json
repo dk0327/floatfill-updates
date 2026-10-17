@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "0.2.4",
+  "versionCode": 7,
+  "versionName": "0.2.5",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.2.4-arm64-release.apk",
-  "sha256": "8b4da4f471f8c3e69b7356aedf58c13f3b823de16717fcbdf7b7902e15619b96",
-  "size": 16644051,
-  "notes": "0.2.4：擷取欄位後按「✏ 輸入／貼上內容」開啟獨立輸入畫面（懸浮窗先收起），鍵盤、長按貼上與「📋 貼上」按鈕都能用；儲存後自動回到目標 App，再按「▶ 開始填入」（會等目標 App 回到前景才填）。截圖後的範本編輯頁開著時懸浮窗也會收起。無障礙第 2 步改為「前往 設定 → 應用程式」→ 應用程式管理 → 懸浮填表 → 右上角 ⋮ → 允許受限制的設定。"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.2.5-arm64-release.apk",
+  "sha256": "fca84f62cdef8a2d6cdb31bd58976af6b92b261dbd9845c32c4e518c334f9ef4",
+  "size": 16627667,
+  "notes": "0.2.5：無障礙第 1 步直接打開「懸浮填表－自動填入」點一下開關；第 2 步直接打開「懸浮填表」應用程式資訊 → 右上角 ⋮ → 允許受限制的設定（沒有 ⋮ 可改到 設定 → 應用程式）；第 3 步直接打開「自動填入」把開關打開。移除耗電管理步驟，安裝不明應用程式改為第 ⑥ 步（選用）。"
 }
