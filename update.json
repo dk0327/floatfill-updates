@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
+  "versionCode": 5,
+  "versionName": "0.2.3",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.2.2-arm64-release.apk",
-  "sha256": "41bad592375e919a62b9196c9a61953c7cc5858cf9292422bb3022b25b983b59",
-  "size": 16611055,
-  "notes": "0.2.2：權限檢測分頁（每項直接跳到設定頁）；擷取欄位後在懸浮窗直接輸入再按開始填入（不必離開目標 App）；修正「開始後沒貼上」——略過自己的懸浮窗、依套件找目標視窗、寫入失敗改剪貼簿貼上、開始前稍等、空白欄位提示；懸浮窗拿掉測試定位／相簿／記錄座標；新增診斷按鈕。"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.2.3-arm64-release.apk",
+  "sha256": "371f7b458a7fe10a7624bd6903a63cee55aa56858cba8d2b3834643468f957a1",
+  "size": 16627443,
+  "notes": "0.2.3：「允許受限制的設定」改為前往「應用程式管理」→ 找到「懸浮填表」→ 右上角 ⋮（由 App 直接開的資訊頁常常沒有 ⋮）；自動偵測受限制設定狀態，已允許就跳過；權限順序調整為 通知 → 懸浮窗 → 無障礙（先被擋一次 → 允許受限制的設定 → 打開）→ 耗電管理 → 安裝不明應用程式（選用）；首頁、引導、權限檢測重新排版，修正跑位。"
 }
