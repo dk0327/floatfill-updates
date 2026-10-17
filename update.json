@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
+  "versionCode": 3,
+  "versionName": "0.2.1",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.2.0-arm64-release.apk",
-  "sha256": "f5ad7afcbe9752afa145e62e238f429bd58cbb7d7b7d73d7deef0ae844fb8e55",
-  "size": 16561615,
-  "notes": "0.2.0：線上更新（GitHub）、懸浮窗內截圖建範本、文字定位與「擷取目前畫面欄位」、測試定位、資料組、設定頁、權限一鍵前往、App 內懸浮窗開關圖示。"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.2.1-arm64-release.apk",
+  "sha256": "a953c15bf9c3c6da49263d2d697022f48675d74dc6a029cb3e126a1156eb5d6c",
+  "size": 16594671,
+  "notes": "0.2.1：開場引導（權限一步一步＋使用教學，含 OPPO／ColorOS「允許受限制的設定」流程）、自動填入被停用提醒、無障礙截圖（免同意）並修正系統截圖閃退、從相簿匯入最新截圖、📍 記錄座標（點畫面建欄位）、修正填入成功卻顯示逾時的問題。更新後若截圖提示沒有截圖能力，請把無障礙「懸浮填表－自動填入」關掉再打開一次。"
 }
