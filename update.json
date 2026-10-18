@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "0.3.5",
+  "versionCode": 15,
+  "versionName": "0.3.6",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.3.5-arm64-release.apk",
-  "sha256": "e42609d227cfdd18f620469561cd04c5c30acfa28299dc2328408f4a7eeaa4c7",
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.3.6-arm64-release.apk",
+  "sha256": "fe116ef48aa423f90ed7bb9c8b73a6b9464f3bbe95416d0b4a4ec6f03d1525ec",
   "size": 16725999,
-  "notes": "0.3.5：👁 開始識別加速。⚙ 設定 →「👁 開始識別」新增「⚡ 加速設定」四個開關（預設全開）：看到就點（畫面一變就立刻找）、畫面上有哪個就點哪個（同時出現依清單順序）、按确定後不等消失（畫面一變就繼續）、只掃目標 App 的視窗（首次使用權限流程仍會掃權限視窗）。新增「兩次點擊最短間隔」（預設 0.3 秒），同一個按鈕在畫面沒變前不會連按。每輪間隔改為 1 秒（升級時自動套用一次）。狀態列顯示每輪花了幾秒。安全規則與「找不到按鈕時停止」開關不變。"
+  "notes": "0.3.6：👁 開始識別「找不到按鈕時停止並響警示音＋震動」改為預設關（升級時自動關一次，之後依你的選擇）。新增「偵測到填表頁時自動填入＋下一步」開關（⚙ 設定 → 👁 開始識別，預設開）：識別中畫面換成範本的填表頁（例如有姓名、編號欄位）時，自動做一次「▶ 填入＋下一步」再繼續識別；同一頁只做一次，失敗會顯示原因、不重試。安全規則不變。"
 }
