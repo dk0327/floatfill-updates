@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "0.3.6",
+  "versionCode": 19,
+  "versionName": "0.3.7",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.3.6-arm64-release.apk",
-  "sha256": "fe116ef48aa423f90ed7bb9c8b73a6b9464f3bbe95416d0b4a4ec6f03d1525ec",
-  "size": 16725999,
-  "notes": "0.3.6：👁 開始識別「找不到按鈕時停止並響警示音＋震動」改為預設關（升級時自動關一次，之後依你的選擇）。新增「偵測到填表頁時自動填入＋下一步」開關（⚙ 設定 → 👁 開始識別，預設開）：識別中畫面換成範本的填表頁（例如有姓名、編號欄位）時，自動做一次「▶ 填入＋下一步」再繼續識別；同一頁只做一次，失敗會顯示原因、不重試。安全規則不變。"
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.3.7-arm64-release.apk",
+  "sha256": "a9bbe11a560558efe6760266d6e5a711e0fb5a6baf6eef9dc56ee0ea63d6e47b",
+  "size": 16742383,
+  "notes": "0.3.7：👁 開始識別新增「其他畫面按鈕」（⚙ 設定 → 👁 開始識別，預設「再試一次」）。另一個畫面出現這個按鈕就自動點，點完繼續原來的流程，不會把這一輪當成結束，也不會改掉「懸浮窗開始識別」和「首次使用權限流程」的步驟。可自行新增或刪除任何按鈕文字（簡體、繁體都認）。升級後若之前沒有這項設定，會自動帶入「再試一次」。送出／付款／刪除／登入類仍然不按；密碼／驗證碼畫面與禁止截圖的畫面仍會停止。"
 }
