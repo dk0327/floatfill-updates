@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "0.4.1",
+  "versionCode": 25,
+  "versionName": "0.4.2",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.4.1-arm64-release.apk",
-  "sha256": "6319b30b715fc0b1e0533daad8ef64f51bcbe537ccb5a5c6ec04c228481f6d5d",
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.4.2-arm64-release.apk",
+  "sha256": "886b53e5cc370c81a86623047bc380bf3a849e67aa6e72453f79238bb01e83bb",
   "size": 16758875,
-  "notes": "0.4.1：懸浮窗新增「📍 錄製其他畫面」。打開懸浮窗 → 先用「流程 ▾」切到你要的流程（例如自定義流程）→ 打開目標 App 出現「再試一次」那類畫面 → 按「📍 錄製其他畫面」→ 選畫面上的按鈕 → 文字會寫進這個流程的「其他畫面按鈕」。開始識別時，流程按鈕都不在才會點它，點完繼續原流程。封鎖字（送出／付款／刪除／登入）不能錄。設定頁手動新增／刪除其他畫面按鈕的方式照舊。"
+  "notes": "0.4.2：只在「自定義流程」加強點擊診斷日誌（找到／防連點擋下／已點但畫面未變／流程按鈕擋住其他畫面等）。懸浮窗開始識別行為不變。請用自定義流程多刷幾次卡住的畫面，再按 🩺 診斷，把「最近自定義流程紀錄」貼給我，再依日誌改點擊。"
 }
