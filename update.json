@@ -1,9 +1,9 @@
 {
-  "versionCode": 25,
-  "versionName": "0.4.2",
+  "versionCode": 26,
+  "versionName": "0.4.3",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.4.2-arm64-release.apk",
-  "sha256": "886b53e5cc370c81a86623047bc380bf3a849e67aa6e72453f79238bb01e83bb",
+  "apkUrl": "https://raw.githubusercontent.com/dk0327/floatfill-updates/main/apk/FloatFill-0.4.3-arm64-release.apk",
+  "sha256": "e43c5a952192a8486ff91b1e9dbf05053140422d79afb8ce344fd1bac007cff3",
   "size": 16758875,
-  "notes": "0.4.2：只在「自定義流程」加強點擊診斷日誌（找到／防連點擋下／已點但畫面未變／流程按鈕擋住其他畫面等）。懸浮窗開始識別行為不變。請用自定義流程多刷幾次卡住的畫面，再按 🩺 診斷，把「最近自定義流程紀錄」貼給我，再依日誌改點擊。"
+  "notes": "0.4.3：自定義流程裡，同一個按鈕（例如「再试一次」）點了之後畫面一直沒變，約 6 秒後會允許再點一次，不會再卡住。懸浮窗開始識別行為不變。診斷紀錄仍保留。"
 }
